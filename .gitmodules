@@ -1,0 +1,3 @@
+[submodule "libs/robotbit"]
+	path = libs/robotbit
+	url = git@github.com:kber/pxt-robotbit.git
